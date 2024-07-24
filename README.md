@@ -28,7 +28,6 @@ Todo o processo de criação foi realizado durante as aulas sobre temas que tenh
 
 ## 💭 Reflexão (Opcional)
 O desafio trouxe uma nova experiência, me permitindo utilizar ferramentas que antes eram desconhecidas, trouxe um grande enriquecimento em minhas ideias e habilidades.
-```
 
 
 ## 👨‍💻 Expert
