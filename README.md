@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Educação e Tecnologia ;)
 
 ## 📒 Descrição
-O projeto foi realizado durante o desafio da plataforma [DIO{(https://web.dio.me/home)
+O projeto foi realizado durante o desafio da plataforma [DIO](https://web.dio.me/home)
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
