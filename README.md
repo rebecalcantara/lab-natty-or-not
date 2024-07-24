@@ -19,8 +19,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Educação e Tecnologia ;)
+# 💻 Educação e Tecnologia
 
 ## 📒 Descrição
 O projeto foi realizado durante o desafio da plataforma [DIO](https://web.dio.me/home)
@@ -36,9 +35,9 @@ Para o vídeo, o [HeyGen](https://app.heygen.com/videos)
 Todo o processo de criação foi realizado durante as aulas sobre temas que tenho algum conhecimento, como sou da educação decidi falar em todos os projetos sobre os impactos, mudanças e facilidades que a tecnologia proporciona à educação.
 
 ## 🚀 Resultados
-- Você pode consultar o [E-book]
-- Você pode consultar o [Podcast]
-- Você pode consultar o [Vídeo]
+- Você pode consultar o [E-book](https://github.com/rebecalcantara/lab-natty-or-not/blob/main/exemplos/Ebook-IA_Rebeca_Alcantara.pdf)
+- Você pode consultar o [Podcast](https://github.com/rebecalcantara/lab-natty-or-not/blob/main/exemplos/Podcast-REBECA.MP3)
+- Você pode consultar o [Vídeo](https://github.com/rebecalcantara/lab-natty-or-not/blob/main/exemplos/Video_Rebeca.mp4)
 
 ## 💭 Reflexão (Opcional)
 O desafio trouxe uma nova experiência, me permitindo utilizar ferramentas que antes eram desconhecidas, trouxe um grande enriquecimento em minhas ideias e habilidades.
