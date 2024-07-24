@@ -20,32 +20,53 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Educação e Tecnologia ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto foi realizado durante o desafio da plataforma [DIO{(https://web.dio.me/home)
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Para os textos e roteiros utilizei o [ChatGPT](https://chatgpt.com/)
+Para as imagens, o [lexica.art](https://lexica.art/) e o [RemoveBG](https://www.remove.bg/pt-br/uploads)
+Para a o áudio, o [ElevenLabs](https://elevenlabs.io/)
+Para o vídeo, o [HeyGen](https://app.heygen.com/videos)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Todo o processo de criação foi realizado durante as aulas sobre temas que tenho algum conhecimento, como sou da educação decidi falar em todos os projetos sobre os impactos, mudanças e facilidades que a tecnologia proporciona à educação.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Você pode consultar o [E-book]
+- Você pode consultar o [Podcast]
+- Você pode consultar o [Vídeo]
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O desafio trouxe uma nova experiência, me permitindo utilizar ferramentas que antes eram desconhecidas, trouxe um grande enriquecimento em minhas ideias e habilidades.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 👨‍💻 Expert
 
-## Links Interessantes
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/169102464?v=4"
+    />
+    <p>&nbsp&nbsp&nbspRebeca Alcantara<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/rebecalcantara">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/rebeca-gabriela-henriques-alcantara-a57a0481/?trk=opento_sprofile_details">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/eurebecahenriques/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+---
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+⌨️ com 💜💜 por [Rebeca Alcantara](https://github.com/rebecalcantara)
